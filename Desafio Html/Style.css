@@ -1,0 +1,40 @@
+.datos{
+    margin: auto;
+    display: block;
+    width: 300px;
+}
+
+p{
+    margin: auto;   
+    display: block;
+    width: 500px;
+}
+
+.imagen {
+     height: 400px;
+     margin-left: auto;
+     margin-right: auto;
+     width: 300px;
+     display: block;
+
+}
+
+h2{
+    margin: auto;
+    display: block;
+    width: 350px;
+}
+
+.formulario{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba (255, 255, 255,0,3);
+    box-shadow: 0 1px 1px;
+    background-color: lightgray;
+}
+
